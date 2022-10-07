@@ -136,7 +136,7 @@ button:hover {
         margin-top: 10px;
         z-index: 1;
         position: relative;
-        display: block;
+        display: block !important;
     }
 
     #nao_mobile {
